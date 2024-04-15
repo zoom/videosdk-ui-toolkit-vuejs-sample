@@ -1,0 +1,24 @@
+{
+  "name": "videosdk-vuejs-sample",
+  "version": "1.10.8-1",
+  "author": "Zoom Video Communications, Inc.",
+  "contributors": [
+    {
+      "name": "Tommy Gaessler"
+    }
+  ],
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@zoom/videosdk-ui-toolkit": "^1.10.8-1",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
