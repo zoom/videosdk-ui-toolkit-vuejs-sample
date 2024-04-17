@@ -10,20 +10,20 @@ This repo is a [Vue.js](https://vuejs.org/) app generated via [Create Vue, the o
 
 To get started, clone the repo:
 
-`$ git clone https://github.com/zoom/videosdk-vuejs-sample.git`
+`$ git clone https://github.com/zoom/videosdk-ui-toolkit-vuejs-sample.git`
 
 
 ## Setup
 
-1. Once cloned, navigate to the `videosdk-vuejs-sample` directory:
+1. Once cloned, navigate to the `videosdk-ui-toolkit-vuejs-sample` directory:
 
-   `$ cd videosdk-vuejs-sample`
+   `$ cd videosdk-ui-toolkit-vuejs-sample`
 
 1. Then install the dependencies:
 
    `$ npm install`
 
-1. Open the `videosdk-vuejs-sample` directory in your code editor.
+1. Open the `videosdk-ui-toolkit-vuejs-sample` directory in your code editor.
 
 1. Open the `src/components/HelloWorld.vue` file, and enter values for the variables:
 
