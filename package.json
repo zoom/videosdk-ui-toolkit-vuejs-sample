@@ -14,7 +14,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@zoom/videosdk-ui-toolkit": "https://videosdk.zoomdev.us/uikit/zoom-videosdk-ui-toolkit-2.1.0.tgz",
+    "@zoom/videosdk-ui-toolkit": "2.1.10-1",
     "vue": "^3.3.4"
   },
   "devDependencies": {
