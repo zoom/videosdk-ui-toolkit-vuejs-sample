@@ -4,7 +4,7 @@
   import '@zoom/videosdk-ui-toolkit/dist/videosdk-ui-toolkit.css'
 
   var sessionContainer
-  var authEndpoint = 'http://localhost:4000'
+  var authEndpoint = ''
   var config = {
       videoSDKJWT: '',
       sessionName: 'test',
