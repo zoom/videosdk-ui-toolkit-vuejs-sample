@@ -34,6 +34,7 @@
       body: JSON.stringify({
           sessionName:  config.sessionName,
           role: role,
+          videoWebRtcMode: 1,
       })
     }).then((response) => {
         return response.json()
