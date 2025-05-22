@@ -4,7 +4,7 @@
   import '@zoom/videosdk-ui-toolkit/dist/videosdk-ui-toolkit.css'
 
   var sessionContainer
-  var authEndpoint = ''
+  var authEndpoint = 'http://localhost:4000'
   var config = {
       videoSDKJWT: '',
       sessionName: 'test',
@@ -34,6 +34,7 @@
       body: JSON.stringify({
           sessionName:  config.sessionName,
           role: role,
+          videoWebRtcMode: 1,
       })
     }).then((response) => {
         return response.json()
