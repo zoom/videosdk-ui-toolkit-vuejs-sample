@@ -1,6 +1,6 @@
 {
   "name": "videosdk-ui-toolkit-vuejs-sample",
-  "version": "2.3.5-1",
+  "version": "2.3.14-1",
   "author": "Zoom Video Communications, Inc.",
   "contributors": [
     {
@@ -14,7 +14,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@zoom/videosdk-ui-toolkit": "2.3.5-1",
+    "@zoom/videosdk-ui-toolkit": "2.3.14-1",
     "vue": "^3.3.4"
   },
   "devDependencies": {
